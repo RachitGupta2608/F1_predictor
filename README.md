@@ -16,7 +16,7 @@ It covers the complete pipeline from data collection to visualization of model i
 
 ## 📚 Data Collection and Exploratory Data Analysis (EDA)
 
-- **Source:** Kaggle F1 dataset (historic F1 race data)
+- **Source:** Formula 1 World Championship (1950 - 2024)[https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020]
 - **Steps Taken:**
   - Loaded datasets including driver details, race results, team performance, etc.
   - Performed data cleaning: handling missing values, standardizing column formats, and encoding categorical features.
