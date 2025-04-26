@@ -1,6 +1,5 @@
 # 🏎️ F1 Race Position Predictor
 
-Predict the finishing position of Formula 1 drivers using Machine Learning!  
 This project builds a Random Forest model trained on real-world F1 race data to make intelligent predictions about race outcomes.
 
 ---
